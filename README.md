@@ -1,1 +1,1 @@
-# three.js-oleksii-makovei-tesk-task-1
+# three.js-oleksii-makovei-tesk-task-1-CGS
